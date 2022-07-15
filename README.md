@@ -6,6 +6,7 @@
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=5561985541069&text=Ol%C3%A1%20estou%20vendo%20atrav%C3%A9s%20do%20seu%20github)
 
 ![Kennedy GitHub stats](https://github-readme-stats.vercel.app/api?username=allankenny&show_icons=true&theme=tokyonight)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=allankenny)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Skills
